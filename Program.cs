@@ -5,6 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 
+// a new comment
+
 namespace TestWebApp2
 {
 	public class Program
